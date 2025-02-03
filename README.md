@@ -43,4 +43,4 @@
 
 ## 📎 링크
 - [스터디 노션 페이지](https://www.notion.so/BTC-_-BaekTrackingClub-1845fa01cff18037a1ddc0e459990f36)
-- [디스코드 채널]([https://discord.gg/3tEWsxYW])
+- [디스코드 채널](https://discord.gg/3tEWsxYW)
