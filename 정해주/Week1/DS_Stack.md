@@ -1,4 +1,3 @@
-###Test message
 
 N = int(input())
 tower = list(map(int, input().split()))
