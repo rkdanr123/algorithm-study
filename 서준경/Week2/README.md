@@ -4,6 +4,7 @@
 
 #### [Gold III] 10986
 #### [Gold V] 1074 5430
+#### [Silver I] 11660
 #### [Silver II] 1260 1654
-#### [Silver III] 1003
+#### [Silver III] 1003 11659
 #### [Silver V] 11723
